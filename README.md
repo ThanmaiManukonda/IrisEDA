@@ -94,7 +94,6 @@ These observations help in feature selection for machine learning models.
 ## 📝 Conclusion  
 
 This Exploratory Data Analysis (EDA) project provided a clear understanding of the dataset and its underlying patterns. Through various visualizations and statistical techniques, important insights were derived regarding feature distributions, correlations, and outliers.
----
 
-## 📂 Repository Structure
+---
 
